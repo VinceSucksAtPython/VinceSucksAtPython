@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vince!
+- 👀 I’m interested in Python, Coding, Drawing and Countryballs!
+- 🌱 I’m currently learning more of Discord.py.
+- 💞️ I’m looking to collaborate on PixelBitDex!
